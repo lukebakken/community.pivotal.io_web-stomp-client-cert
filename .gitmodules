@@ -1,0 +1,3 @@
+[submodule "webstomp-client"]
+	path = webstomp-client
+	url = https://github.com/JSteunou/webstomp-client.git
