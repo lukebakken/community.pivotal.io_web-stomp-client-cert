@@ -1,3 +1,4 @@
 [submodule "webstomp-client"]
 	path = webstomp-client
-	url = https://github.com/JSteunou/webstomp-client.git
+	url = https://github.com/lukebakken/webstomp-client.git
+	branch = lrb-audit-fix
