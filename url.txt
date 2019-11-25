@@ -1,0 +1,1 @@
+https://community.pivotal.io/s/question/0D50e0000650Ep8/how-to-enable-the-webstomp-using-ssl-without-implicit-usage-of-the-guest-user-for-creating-the-channel
